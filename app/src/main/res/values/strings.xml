@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MovieTVApps</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_movie">Movie</string>
+    <string name="title_tvshow">TV Show</string>
+    <string name="title">Judul</string>
+    <string name="dateline">Dateline</string>
+    <string name="description">Desc</string>
+    <string name="title_description">Deskripsi</string>
+    <string name="title_episode">Episode</string>
+    <string name="in_cinema">In Cinema</string>
+    <string name="title_release_date">Release Date</string>
+    <string name="title_season">Season</string>
+    <string name="title_bookmark">Bookmark</string>
+
+</resources>
